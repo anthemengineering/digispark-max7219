@@ -1,5 +1,5 @@
 /*
- * Digispark MAX7219
+ * Digispark MAX7219 - Anthem
  *
  * Uses a Digispark (an ATTiny85) to control an LED array via an MAX7219 controller using
  * a software-controlled SPI interface. This sketch assumes the following pin connections
